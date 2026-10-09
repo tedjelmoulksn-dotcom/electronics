@@ -2,7 +2,7 @@
 
 An entry point to my electronics and embedded-systems work, with emphasis on sensing, microcontroller interfaces, actuator control and system-level validation.
 
-This repository currently serves as an index. It does not contain a standalone electronics design, schematic package or firmware implementation.
+This repository serves as a portfolio index, directing readers to the detailed hardware interfaces, source code and reports of each project.
 
 ## Project portfolio
 
@@ -19,6 +19,8 @@ This repository currently serves as an index. It does not contain a standalone e
 Each linked repository documents its available source, reports, tools and validation status.
 
 ## Documentation approach
+
+An instrumentation project is explained through its acquisition chain, signal representation and actuator interface. The linked projects show these relationships at different levels, from individual register operations to coordinated subsystems.
 
 The portfolio distinguishes implementation artifacts from calculations, recorded observations and future work. Technical claims are tied to source code or project documentation, and reproducibility requirements are stated explicitly.
 
