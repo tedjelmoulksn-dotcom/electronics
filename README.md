@@ -1,6 +1,10 @@
 # Electronics and Instrumentation
 
-An entry point to my electronics and embedded-systems work, with emphasis on sensing, microcontroller interfaces, actuator control and system-level validation.
+Portfolio index for electronics, instrumentation and embedded-systems projects.
+
+![STM32 ultrasonic demonstrator from the linked Radar_STM32 project.](https://raw.githubusercontent.com/tedjelmoulksn-dotcom/Radar_STM32/main/assets/prototype_radar.jpg)
+
+*STM32 ultrasonic demonstrator from the linked Radar_STM32 project.*
 
 This repository serves as a portfolio index, directing readers to the detailed hardware interfaces, source code and reports of each project.
 
