@@ -2,6 +2,10 @@
 
 A navigation hub for electronics, embedded systems and instrumentation work. Each substantial project has its own repository with its sources, build instructions and documentation.
 
+![electronics project overview](assets/project-overview.svg)
+
+*Technical study overview based on the available repository material.*
+
 ## Project repositories
 
 | Area | Repositories |

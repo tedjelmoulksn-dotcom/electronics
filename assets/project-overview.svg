@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460" role="img" aria-labelledby="title desc">
+<title id="title">Electronics and embedded project map</title>
+<desc id="desc">Portfolio navigation: each project is maintained in its own repository. Measurement and analog circuits: Analog laboratory · sensor characterization, Physical instrumentation · LabVIEW; Embedded firmware: PIC and GPS interface, STM32 / FreeRTOS HVAC; Digital design and control: FPGA digital clock · FM tuning controller, Feedback-control studies; Integrated prototypes: Arduino / EV3 experiments, Energy-efficient house model</desc>
+<rect width="1100" height="460" rx="18" fill="#f4f7fb"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="34" y="48" fill="#172b3a" font-size="29" font-weight="700">Electronics and embedded project map</text>
+<text x="34" y="77" fill="#526576" font-size="17">Portfolio navigation: each project is maintained in its own repository</text>
+<rect x="34" y="104" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M35 114 V213" stroke="#287b8e" stroke-width="4"/>
+<text x="54" y="136" fill="#183345" font-size="20" font-weight="700">Measurement and analog circuits</text>
+<text x="54" y="163" fill="#465e70" font-size="17">Analog laboratory · sensor characterization</text>
+<text x="54" y="186" fill="#465e70" font-size="17">Physical instrumentation · LabVIEW</text>
+<rect x="559" y="104" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M560 114 V213" stroke="#287b8e" stroke-width="4"/>
+<text x="579" y="136" fill="#183345" font-size="20" font-weight="700">Embedded firmware</text>
+<text x="579" y="163" fill="#465e70" font-size="17">PIC and GPS interface</text>
+<text x="579" y="186" fill="#465e70" font-size="17">STM32 / FreeRTOS HVAC</text>
+<rect x="34" y="243" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M35 253 V352" stroke="#287b8e" stroke-width="4"/>
+<text x="54" y="275" fill="#183345" font-size="20" font-weight="700">Digital design and control</text>
+<text x="54" y="302" fill="#465e70" font-size="17">FPGA digital clock · FM tuning controller</text>
+<text x="54" y="325" fill="#465e70" font-size="17">Feedback-control studies</text>
+<rect x="559" y="243" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M560 253 V352" stroke="#287b8e" stroke-width="4"/>
+<text x="579" y="275" fill="#183345" font-size="20" font-weight="700">Integrated prototypes</text>
+<text x="579" y="302" fill="#465e70" font-size="17">Arduino / EV3 experiments</text>
+<text x="579" y="325" fill="#465e70" font-size="17">Energy-efficient house model</text>
+<text x="34" y="420" fill="#526576" font-size="16">CAD, Linux and networking exercises are supporting foundations in this hub.</text>
+</g></svg>
