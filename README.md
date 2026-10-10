@@ -1,33 +1,18 @@
-# Electronics and Instrumentation
+# Electronics and Instrumentation Portfolio
 
-Portfolio index for electronics, instrumentation and embedded-systems projects.
+Academic projects in embedded systems, robotics, electronics and instrumentation. Follow a project to explore its source, reports and hardware.
 
-![STM32 ultrasonic demonstrator from the linked Radar_STM32 project.](https://raw.githubusercontent.com/tedjelmoulksn-dotcom/Radar_STM32/main/assets/prototype_radar.jpg)
-
-*STM32 ultrasonic demonstrator from the linked Radar_STM32 project.*
-
-This repository serves as a portfolio index, directing readers to the detailed hardware interfaces, source code and reports of each project.
-
-## Project portfolio
-
-| Project | Engineering focus |
+| Project | Focus |
 |---|---|
-| [STM32 radar](https://github.com/tedjelmoulksn-dotcom/Radar_STM32) | Embedded sensing, scanning and measurement presentation |
-| [PIC GPS receiver](https://github.com/tedjelmoulksn-dotcom/GPS_Microcontroller) | Register-level serial communication and GPS data processing |
-| [FreeRTOS HVAC](https://github.com/tedjelmoulksn-dotcom/FreeRTOS_HVAC) | ADC acquisition, PWM/GPIO control and task scheduling |
-| [Optical biosensing](https://github.com/tedjelmoulksn-dotcom/Bio_capteur) | SPR/SERS analysis and instrumentation modelling |
-| [Low-energy house](https://github.com/tedjelmoulksn-dotcom/Maison_a_basse_consommation) | Energy analysis and engineering trade-offs |
-| [PIC laboratories](https://github.com/tedjelmoulksn-dotcom/Microcontroleur_PIC) | GPIO, software timing and external interrupts |
-| [FPGA/VHDL](https://github.com/tedjelmoulksn-dotcom/FPGA_VHDL) | Digital counters, display logic and finite-state control |
-
-Each linked repository documents its available source, reports, tools and validation status.
-
-## Documentation approach
-
-An instrumentation project is explained through its acquisition chain, signal representation and actuator interface. The linked projects show these relationships at different levels, from individual register operations to coordinated subsystems.
-
-The portfolio distinguishes implementation artifacts from calculations, recorded observations and future work. Technical claims are tied to source code or project documentation, and reproducibility requirements are stated explicitly.
-
-## About
-
-Maintained by Tedj El Moulk Sinacer. No project-wide licence has been defined.
+| [STM32 ultrasonic speed demonstrator](https://github.com/tedjelmoulksn-dotcom/Radar_STM32) | Distance sensing and embedded measurement |
+| [PIC GPS receiver](https://github.com/tedjelmoulksn-dotcom/GPS_Microcontroller) | UART communication and LCD display |
+| [FreeRTOS HVAC](https://github.com/tedjelmoulksn-dotcom/FreeRTOS_HVAC) | Periodic tasks, ADC, PWM and GPIO |
+| [Low-energy house](https://github.com/tedjelmoulksn-dotcom/Maison_a_basse_consommation) | Thermal management and actuator integration |
+| [Competition robotics](https://github.com/tedjelmoulksn-dotcom/Farming_Mars_CFR) | Motor control and robot subsystems |
+| [PIC laboratories](https://github.com/tedjelmoulksn-dotcom/Microcontroleur_PIC) | GPIO, timing and interrupts |
+| [FPGA/VHDL](https://github.com/tedjelmoulksn-dotcom/FPGA_VHDL) | Digital logic and finite-state control |
+| [Analogue electronics](https://github.com/tedjelmoulksn-dotcom/Electronique_Analogique) | Circuit simulation and measurement |
+| [Sensor characterisation](https://github.com/tedjelmoulksn-dotcom/Instrumentation_Capteurs) | Pt100, NTC and LVDT measurements |
+| [Physical instrumentation](https://github.com/tedjelmoulksn-dotcom/Instrumentation_Physique) | Probe measurements, spectroscopy and NMR |
+| [LabVIEW](https://github.com/tedjelmoulksn-dotcom/LabVIEW_Instrumentation) | Virtual instruments and interfaces |
+| [Optical biosensing](https://github.com/tedjelmoulksn-dotcom/Bio_capteur) | SPR/SERS measurement and modelling |
