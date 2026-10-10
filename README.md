@@ -1,33 +1,24 @@
-# Electronics and Instrumentation
+# Electronics and Embedded Projects
 
-Portfolio index for electronics, instrumentation and embedded-systems projects.
+A navigation hub for electronics, embedded systems and instrumentation work. Each substantial project has its own repository with its sources, build instructions and documentation.
 
-![STM32 ultrasonic demonstrator from the linked Radar_STM32 project.](https://raw.githubusercontent.com/tedjelmoulksn-dotcom/Radar_STM32/main/assets/prototype_radar.jpg)
+## Project repositories
 
-*STM32 ultrasonic demonstrator from the linked Radar_STM32 project.*
+| Area | Repositories |
+| --- | --- |
+| Analog electronics | [Analog laboratory](https://github.com/tedjelmoulksn-dotcom/Electronique_Analogique) |
+| Instrumentation | [Sensor characterization](https://github.com/tedjelmoulksn-dotcom/Instrumentation_Capteurs), [Physical instrumentation](https://github.com/tedjelmoulksn-dotcom/Instrumentation_Physique), [LabVIEW](https://github.com/tedjelmoulksn-dotcom/LabVIEW_Instrumentation) |
+| Embedded systems | [PIC](https://github.com/tedjelmoulksn-dotcom/Microcontroleur_PIC), [GPS interface](https://github.com/tedjelmoulksn-dotcom/GPS_Microcontroller), [FreeRTOS HVAC](https://github.com/tedjelmoulksn-dotcom/FreeRTOS_HVAC) |
+| FPGA | [Digital clock](https://github.com/tedjelmoulksn-dotcom/FPGA_VHDL), [FM tuning controller](https://github.com/tedjelmoulksn-dotcom/Minuterie_FPGA) |
+| Robotics and control | [Arduino and EV3](https://github.com/tedjelmoulksn-dotcom/Robotique_Arduino), [Feedback control](https://github.com/tedjelmoulksn-dotcom/Systemes_Asservis) |
+| Integrated prototype | [Energy-efficient house](https://github.com/tedjelmoulksn-dotcom/Maison_a_basse_consommation) |
 
-This repository serves as a portfolio index, directing readers to the detailed hardware interfaces, source code and reports of each project.
+## Engineering foundations
 
-## Project portfolio
+[foundations](foundations/) contains smaller supporting exercises relocated from Divers_TP:
 
-| Project | Engineering focus |
-|---|---|
-| [STM32 radar](https://github.com/tedjelmoulksn-dotcom/Radar_STM32) | Embedded sensing, scanning and measurement presentation |
-| [PIC GPS receiver](https://github.com/tedjelmoulksn-dotcom/GPS_Microcontroller) | Register-level serial communication and GPS data processing |
-| [FreeRTOS HVAC](https://github.com/tedjelmoulksn-dotcom/FreeRTOS_HVAC) | ADC acquisition, PWM/GPIO control and task scheduling |
-| [Optical biosensing](https://github.com/tedjelmoulksn-dotcom/Bio_capteur) | SPR/SERS analysis and instrumentation modelling |
-| [Low-energy house](https://github.com/tedjelmoulksn-dotcom/Maison_a_basse_consommation) | Energy analysis and engineering trade-offs |
-| [PIC laboratories](https://github.com/tedjelmoulksn-dotcom/Microcontroleur_PIC) | GPIO, software timing and external interrupts |
-| [FPGA/VHDL](https://github.com/tedjelmoulksn-dotcom/FPGA_VHDL) | Digital counters, display logic and finite-state control |
+- [CAD](foundations/cad/): FreeCAD chess-piece model.
+- [Linux](foundations/linux/): machine-information script and command captures.
+- [Networking](foundations/networking/): Packet Tracer exercise, report and protocol captures.
 
-Each linked repository documents its available source, reports, tools and validation status.
-
-## Documentation approach
-
-An instrumentation project is explained through its acquisition chain, signal representation and actuator interface. The linked projects show these relationships at different levels, from individual register operations to coordinated subsystems.
-
-The portfolio distinguishes implementation artifacts from calculations, recorded observations and future work. Technical claims are tied to source code or project documentation, and reproducibility requirements are stated explicitly.
-
-## About
-
-Maintained by Tedj El Moulk Sinacer. No project-wide licence has been defined.
+Project links deliberately point to the canonical repositories. The hub does not duplicate their source trees. Original project history is retained where already present.
